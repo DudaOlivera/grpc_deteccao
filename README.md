@@ -101,11 +101,3 @@ O servidor vai retornar um JSON com as informações da placa detectada:
 ## 🚀 **Contribuições**
 
 Sinta-se à vontade para contribuir com melhorias ou correções no projeto! Para isso, basta abrir uma issue ou um pull request.
-
-## 📄 **Licença**
-
-Este projeto é licenciado sob a **MIT License**. Veja o arquivo LICENSE para mais detalhes.
-
----
-
-Com isso, seu README está pronto para ser usado no GitHub! 😊
